@@ -22,6 +22,9 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
+nlp/Speech/stt_models/
+nlp/Speech/tts_models/
+nlp/Speech/speech/
 *.egg-info/
 .installed.cfg
 *.egg
